@@ -33,6 +33,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 # Accessibility
 # Alignments
 # Clearings
+addas
 # Widgets
 # Content
 	## Posts and pages
@@ -55,6 +56,7 @@ html {
 
 body {
 	margin: 0;
+	background colour: red;
 }
 
 article,
